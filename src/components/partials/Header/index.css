@@ -1,0 +1,14 @@
+.header__item {
+    padding: 4px 6px;
+    margin-right: 10px;
+    color: #fff;
+}
+.header__icon {
+    float: right;
+}
+.cardInfo__title {
+    margin-bottom: 10px;
+}
+.cardInfo__right {
+    float: right;
+}
